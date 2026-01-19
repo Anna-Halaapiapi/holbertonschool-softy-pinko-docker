@@ -1,0 +1,1 @@
+README for holbertonschool-softy-pinko-docker dir.
